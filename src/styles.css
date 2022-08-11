@@ -5,9 +5,23 @@
 
 .title{
     font-family: Futura-CondensedExtraBold;
-    text-align: center;
+}
+
+.parent{
+    display: inline-block;
+    background-color: #FFFFFF;
+}
+
+.child{
+    width: 0;
+    min-width: 100%;
 }
 
 body{
-    background-color: #EEEEEE;
+    background-color: #DDDDDD;
+    text-align: center;
+}
+
+img{
+    display: block;
 }
