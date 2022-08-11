@@ -5,4 +5,9 @@
 
 .title{
     font-family: Futura-CondensedExtraBold;
+    text-align: center;
+}
+
+body{
+    background-color: #EEEEEE;
 }
