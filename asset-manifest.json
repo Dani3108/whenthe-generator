@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/whenthe-generator/static/css/main.4cdd2578.css",
+    "main.js": "/whenthe-generator/static/js/main.846dd39f.js",
+    "static/media/Futura Condensed Extra Bold.otf": "/whenthe-generator/static/media/Futura Condensed Extra Bold.74aa3b0f71d46d0801ce.otf",
+    "index.html": "/whenthe-generator/index.html",
+    "main.4cdd2578.css.map": "/whenthe-generator/static/css/main.4cdd2578.css.map",
+    "main.846dd39f.js.map": "/whenthe-generator/static/js/main.846dd39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdd2578.css",
+    "static/js/main.846dd39f.js"
+  ]
+}
